@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-lowercase-keys",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Convert each object key to lowercase.",
   "license": "Apache-2.0",
   "author": {
