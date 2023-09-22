@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@deno/mod.js';
+import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@v0.1.0-deno/mod.js';
 ```
 
 #### lowercaseKeys( obj )
@@ -95,7 +95,7 @@ var obj2 = lowercaseKeys( obj1 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@deno/mod.js';
+import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@v0.1.0-deno/mod.js';
 
 var obj1 = {
     'A': 'beep',
