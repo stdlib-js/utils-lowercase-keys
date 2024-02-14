@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@esm/index.mjs';
+import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@v0.2.0-esm/index.mjs';
 ```
 
 #### lowercaseKeys( obj )
@@ -100,7 +100,7 @@ var obj2 = lowercaseKeys( obj1 );
 <body>
 <script type="module">
 
-import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@esm/index.mjs';
+import lowercaseKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-lowercase-keys@v0.2.0-esm/index.mjs';
 
 var obj1 = {
     'A': 'beep',
