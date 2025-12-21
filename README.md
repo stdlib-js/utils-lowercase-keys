@@ -148,7 +148,7 @@ console.dir( obj2 );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils-uncapitalize-keys`][@stdlib/utils/uncapitalize-keys]</span><span class="delimiter">: </span><span class="description">convert the first letter of each object key to lowercase.</span>
+-   <span class="package-name">[`@stdlib/object-uncapitalize-keys`][@stdlib/object/uncapitalize-keys]</span><span class="delimiter">: </span><span class="description">convert the first letter of each object key to lowercase.</span>
 -   <span class="package-name">[`@stdlib/utils-uppercase-keys`][@stdlib/utils/uppercase-keys]</span><span class="delimiter">: </span><span class="description">convert each object key to uppercase.</span>
 
 </section>
@@ -207,8 +207,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 -->
 
-[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
+[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+[chat-url]: https://stdlib.zulipchat.com
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
@@ -229,7 +229,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/utils/uncapitalize-keys]: https://github.com/stdlib-js/utils-uncapitalize-keys
+[@stdlib/object/uncapitalize-keys]: https://github.com/stdlib-js/object-uncapitalize-keys
 
 [@stdlib/utils/uppercase-keys]: https://github.com/stdlib-js/utils-uppercase-keys
 
